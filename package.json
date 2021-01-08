@@ -1,0 +1,19 @@
+{
+  "name": "stock-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "export-from-json": "^1.3.3",
+    "json-2-csv": "^3.7.6",
+    "qs": "^6.9.4"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
